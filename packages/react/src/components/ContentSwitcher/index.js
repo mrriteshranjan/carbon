@@ -6,8 +6,6 @@
  */
 
 import { createClassWrapper } from '../../internal/createClassWrapper';
-import ContentSwitcherCarbon from './ContentSwitcher';
+import ContentSwitcher from './ContentSwitcher';
 
-const ContentSwitcher = createClassWrapper(ContentSwitcherCarbon);
-export default ContentSwitcher;
-export { ContentSwitcher };
+export default createClassWrapper(ContentSwitcher);

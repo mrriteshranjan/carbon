@@ -5,6 +5,4 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import CopyButton from './CopyButton';
-export default CopyButton;
-export { CopyButton };
+export default from './CopyButton';

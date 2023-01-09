@@ -16,4 +16,3 @@ const TimePickerSelect = FeatureFlags.enabled('enable-v11-release')
   : TimePickerSelectClassic;
 
 export default TimePickerSelect;
-export { TimePickerSelect };

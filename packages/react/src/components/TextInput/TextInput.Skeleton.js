@@ -35,4 +35,3 @@ TextInputSkeleton.propTypes = {
 };
 
 export default TextInputSkeleton;
-export { TextInputSkeleton };

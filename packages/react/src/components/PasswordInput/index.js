@@ -1,4 +1,2 @@
-import ControlledPasswordInput from '../TextInput/ControlledPasswordInput';
-import PasswordInput from '../TextInput/PasswordInput';
-
-export { ControlledPasswordInput, PasswordInput };
+export ControlledPasswordInput from '../TextInput/ControlledPasswordInput';
+export PasswordInput from '../TextInput/PasswordInput';

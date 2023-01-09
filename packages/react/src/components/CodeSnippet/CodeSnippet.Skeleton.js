@@ -59,4 +59,3 @@ CodeSnippetSkeleton.propTypes = {
 };
 
 export default CodeSnippetSkeleton;
-export { CodeSnippetSkeleton };

@@ -8,6 +8,5 @@
 import Accordion from './Accordion';
 
 export default Accordion;
-export { Accordion };
 export { default as AccordionItem } from './AccordionItem';
 export { default as AccordionSkeleton } from './Accordion.Skeleton';

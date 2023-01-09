@@ -53,5 +53,4 @@ HeaderNavigation.propTypes = {
   className: PropTypes.string,
 };
 
-export default HeaderNavigation;
 export { HeaderNavigation };

@@ -5,7 +5,4 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import SkeletonPlaceholder from './SkeletonPlaceholder';
-
-export default SkeletonPlaceholder;
-export { SkeletonPlaceholder };
+export default from './SkeletonPlaceholder';

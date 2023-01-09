@@ -31,4 +31,3 @@ FileUploaderSkeleton.propTypes = {
 };
 
 export default FileUploaderSkeleton;
-export { FileUploaderSkeleton };

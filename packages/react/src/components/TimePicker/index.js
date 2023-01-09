@@ -5,7 +5,4 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import TimePicker from './TimePicker';
-
-export default TimePicker;
-export { TimePicker };
+export default from './TimePicker';

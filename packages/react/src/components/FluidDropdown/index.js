@@ -5,8 +5,6 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import FluidDropdown from './FluidDropdown';
-
-export default FluidDropdown;
-export { FluidDropdown };
+export default from './FluidDropdown';
+export FluidDropdown from './FluidDropdown';
 export { default as FluidDropdownSkeleton } from './FluidDropdown.Skeleton';

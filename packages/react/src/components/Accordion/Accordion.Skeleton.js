@@ -95,4 +95,3 @@ function AccordionSkeletonItem() {
 }
 
 export default AccordionSkeleton;
-export { AccordionSkeleton };

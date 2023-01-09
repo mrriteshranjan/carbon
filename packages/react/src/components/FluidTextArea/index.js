@@ -5,8 +5,6 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import FluidTextArea from './FluidTextArea';
-
-export default FluidTextArea;
-export { FluidTextArea };
+export default from './FluidTextArea';
+export FluidTextArea from './FluidTextArea';
 export { default as FluidTextAreaSkeleton } from './FluidTextArea.Skeleton';

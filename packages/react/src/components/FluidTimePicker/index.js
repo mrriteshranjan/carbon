@@ -5,9 +5,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import FluidTimePicker from './FluidTimePicker';
+export default from './FluidTimePicker';
+export FluidTimePicker from './FluidTimePicker';
 
 export { default as FluidTimePickerSkeleton } from './FluidTimePicker.Skeleton';
-export default FluidTimePicker;
-
-export { FluidTimePicker };

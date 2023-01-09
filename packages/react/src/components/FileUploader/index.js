@@ -5,10 +5,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import FileUploader from './FileUploader';
-
-export default FileUploader;
-export { FileUploader };
+export default from './FileUploader';
 export { default as Filename } from './Filename';
 export { default as FileUploaderSkeleton } from './FileUploader.Skeleton';
 export { default as FileUploaderButton } from './FileUploaderButton';

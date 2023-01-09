@@ -5,7 +5,4 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import Loading from './Loading';
-
-export default Loading;
-export { Loading };
+export default from './Loading';

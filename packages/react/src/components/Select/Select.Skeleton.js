@@ -37,4 +37,3 @@ SelectSkeleton.propTypes = {
 };
 
 export default SelectSkeleton;
-export { SelectSkeleton };

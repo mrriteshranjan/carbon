@@ -5,8 +5,6 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import FluidMultiSelect from './FluidMultiSelect';
-
-export default FluidMultiSelect;
-export { FluidMultiSelect };
+export default from './FluidMultiSelect';
+export FluidMultiSelect from './FluidMultiSelect';
 export { default as FluidMultiSelectSkeleton } from './FluidMultiSelect.Skeleton';

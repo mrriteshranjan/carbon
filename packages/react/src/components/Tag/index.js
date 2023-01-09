@@ -5,9 +5,6 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import Tag from './Tag';
-
 export * from './Tag.Skeleton';
 export * from './Tag';
-export default Tag;
-export { Tag };
+export default from './Tag';

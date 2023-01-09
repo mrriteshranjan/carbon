@@ -5,7 +5,4 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import Switch from './Switch';
-
-export default Switch;
-export { Switch };
+export default from './Switch';

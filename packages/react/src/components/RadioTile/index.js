@@ -5,7 +5,4 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import RadioTile from './RadioTile';
-
-export default RadioTile;
-export { RadioTile };
+export default from './RadioTile';

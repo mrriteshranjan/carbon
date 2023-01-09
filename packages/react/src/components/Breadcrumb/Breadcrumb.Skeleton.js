@@ -41,4 +41,3 @@ BreadcrumbSkeleton.propTypes = {
 };
 
 export default BreadcrumbSkeleton;
-export { BreadcrumbSkeleton };

@@ -5,11 +5,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import Checkbox, { CheckboxProps } from './Checkbox';
-
 export { default as CheckboxSkeleton } from './Checkbox.Skeleton';
-export default Checkbox;
-
-export { Checkbox };
-
+import Checkbox, { CheckboxProps } from './Checkbox';
 export type { CheckboxProps };
+export default Checkbox;

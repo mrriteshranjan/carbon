@@ -28,4 +28,3 @@ RadioButtonSkeleton.propTypes = {
 };
 
 export default RadioButtonSkeleton;
-export { RadioButtonSkeleton };

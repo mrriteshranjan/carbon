@@ -29,4 +29,3 @@ IconSkeleton.propTypes = {
 };
 
 export default IconSkeleton;
-export { IconSkeleton };

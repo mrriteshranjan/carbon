@@ -5,6 +5,4 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import ButtonSet from './ButtonSet';
-export { ButtonSet };
-export default ButtonSet;
+export default from './ButtonSet';

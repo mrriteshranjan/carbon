@@ -5,7 +5,4 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import FormGroup from './FormGroup';
-
-export default FormGroup;
-export { FormGroup };
+export default from './FormGroup';

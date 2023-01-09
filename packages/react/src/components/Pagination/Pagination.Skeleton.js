@@ -38,4 +38,3 @@ PaginationSkeleton.propTypes = {
 };
 
 export default PaginationSkeleton;
-export { PaginationSkeleton };

@@ -5,7 +5,4 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import FormLabel from './FormLabel';
-
-export default FormLabel;
-export { FormLabel };
+export default from './FormLabel';

@@ -9,4 +9,3 @@ import Pagination from './Pagination';
 export * from './Pagination.Skeleton';
 
 export default Pagination;
-export { Pagination };

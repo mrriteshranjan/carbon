@@ -8,4 +8,3 @@
 import RadioButtonGroup from './RadioButtonGroup';
 
 export default RadioButtonGroup;
-export { RadioButtonGroup };

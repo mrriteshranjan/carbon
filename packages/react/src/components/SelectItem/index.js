@@ -5,7 +5,4 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import SelectItem from './SelectItem';
-
-export default SelectItem;
-export { SelectItem };
+export default from './SelectItem';

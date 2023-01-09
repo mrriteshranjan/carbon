@@ -5,6 +5,4 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import Copy from './Copy';
-export default Copy;
-export { Copy };
+export default from './Copy';

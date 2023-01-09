@@ -5,8 +5,5 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import FluidForm from './FluidForm';
-
-export default FluidForm;
-export { FluidForm };
+export default from './FluidForm';
 export { FormContext } from './FormContext';

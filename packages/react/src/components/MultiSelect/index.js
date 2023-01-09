@@ -17,5 +17,5 @@ if (__DEV__) {
   deprecateFieldOnObject(MultiSelect, 'Filterable', FilterableMultiSelect);
 }
 
-export { FilterableMultiSelect, MultiSelect };
+export { FilterableMultiSelect };
 export default MultiSelect;
